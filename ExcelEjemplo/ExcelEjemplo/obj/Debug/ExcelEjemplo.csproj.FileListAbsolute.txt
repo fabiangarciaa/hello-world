@@ -1,0 +1,10 @@
+c:\users\arenso\documents\visual studio 2013\Projects\ExcelEjemplo\ExcelEjemplo\bin\Debug\ExcelEjemplo.exe.config
+c:\users\arenso\documents\visual studio 2013\Projects\ExcelEjemplo\ExcelEjemplo\bin\Debug\ExcelEjemplo.exe
+c:\users\arenso\documents\visual studio 2013\Projects\ExcelEjemplo\ExcelEjemplo\bin\Debug\ExcelEjemplo.pdb
+c:\users\arenso\documents\visual studio 2013\Projects\ExcelEjemplo\ExcelEjemplo\obj\Debug\ExcelEjemplo.csprojResolveAssemblyReference.cache
+c:\users\arenso\documents\visual studio 2013\Projects\ExcelEjemplo\ExcelEjemplo\obj\Debug\ExcelEjemplo.csproj.ResolveComReference.cache
+c:\users\arenso\documents\visual studio 2013\Projects\ExcelEjemplo\ExcelEjemplo\obj\Debug\ExcelEjemplo.Form1.resources
+c:\users\arenso\documents\visual studio 2013\Projects\ExcelEjemplo\ExcelEjemplo\obj\Debug\ExcelEjemplo.Properties.Resources.resources
+c:\users\arenso\documents\visual studio 2013\Projects\ExcelEjemplo\ExcelEjemplo\obj\Debug\ExcelEjemplo.csproj.GenerateResource.Cache
+c:\users\arenso\documents\visual studio 2013\Projects\ExcelEjemplo\ExcelEjemplo\obj\Debug\ExcelEjemplo.exe
+c:\users\arenso\documents\visual studio 2013\Projects\ExcelEjemplo\ExcelEjemplo\obj\Debug\ExcelEjemplo.pdb
